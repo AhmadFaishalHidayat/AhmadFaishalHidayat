@@ -13,7 +13,7 @@
 
 <br/>
 <div align="center">  
-  Hi there! I'm <a href="https://github.com/AhmadFaishalHidayat">Ahmad Faishal Hidayat</a>, a passionate software developer with interest in Web Development. Thanks for visiting my profile! Feel free to check out my repository and contact me if you have any questions.
+  Hi there! I'm <a href="https://github.com/AhmadFaishalHidayat">Ahmad Faishal Hidayat</a>, a passionate software developer with interest in Web Development and Mobile Applications Development. Thanks for visiting my profile! Feel free to check out my repository and contact me if you have any questions.
 </div>
 
 ## Tech Stacks
